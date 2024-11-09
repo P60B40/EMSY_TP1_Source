@@ -2,16 +2,16 @@
 // Nom du projet 		: EMSY TP1 
 // Nom du fichier 		: EMSY_TP1.c 
 // Date de création 	: 27.09.2024
-// Date de modification : xx.xx.20xx
+// Date de modification : 09.11.2024
 //
-// Auteur 				: Philou (Ph. Bovey)
+// Auteur 				: Zitouni Bilal/ Savary Diego
 //
-// Version				: 0.1
+// Version				: 0.2
 //
-// Description          : 
+// Description : ce programme calcule l'air d'un rectangle  
 //
 //
-// Remarques :           
+// Remarques :  nous n'avons pas réussi à push donc on édit le programme depuis github directement         
 //----------------------------------------------------------------------------------//
 
 //--- librairie standart ---//
@@ -21,6 +21,14 @@
 //-- programme principale --// 
 int main(void)
 {
+  int largeur = 2;
+  int longueur = 3;
 
+  int air = 0;
+
+  air = largeur*longueur;
+
+  printf("l'air du rectangle est de %d /n",air);
+  
   return(0);
 }
