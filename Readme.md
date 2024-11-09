@@ -3,7 +3,7 @@
 ## Commande utilisé
 ### commande de base
 
-```
+	...
   	cd /
 	```
 	```
