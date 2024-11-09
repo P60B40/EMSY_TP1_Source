@@ -52,4 +52,14 @@ accès au dosier du dépot clonné
  ### editeur de texte et code nano
  pour ouvrir le fichier à éditer
  	`nano fichier.c`
+  
+### utilisation du compilateur gcc
+compiler et afficher les warnings
+	`gcc -Wall -o fichier.o -c fichier.c `
+
+ Compilation seule
+ 	`gcc -o fichier fichier.o `
+
+  Appeller le programe
+  	`./fichier`
 
