@@ -3,7 +3,7 @@
 ## Commande utilisé
 ### commande de base
 
-	`cd /` 
+	`cd /`
  changer le repertoire actuelle de la racine
  	`cd /home` 
   change le repertoire actuelle vers le dossier home
