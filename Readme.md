@@ -2,9 +2,11 @@
 ## Infos Pratique - Bonne pratique git
 ## Commande utilisé
 ### commande de base
-changer le repertoire actuelle de la racine
+
+changer le repertoire actuelle de la racine :
 	`cd /`
-change le repertoire actuelle vers le dossier home
+ 
+change le repertoire actuelle vers le dossier home:
  	`cd /home` 
   
 
