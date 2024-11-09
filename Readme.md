@@ -1,6 +1,11 @@
 # EMSY - TP1 - 2024 - 2025
 ## Infos Pratique - Bonne pratique git
+## Commande utilisé
+### commande de base
 
+```
+  	cd /
+	```
 	```
   	exemple ligne de commande 
 	```
