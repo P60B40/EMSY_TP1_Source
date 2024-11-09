@@ -4,7 +4,7 @@
 ### commande de base
 
 	...
-  	cd /
+  	-'cd /'
 	```
 	```
   	exemple ligne de commande 
