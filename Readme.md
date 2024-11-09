@@ -12,5 +12,6 @@ change le repertoire actuelle vers le dossier home:
  	 `ls -l`
    
 ## Instalation de la machine virtuelle
-	`sudo sparky-installer`
+`sudo saprky-installer`
+ 
  
