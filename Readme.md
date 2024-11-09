@@ -1,5 +1,4 @@
 # EMSY - TP1 - 2024 - 2025
-## Infos Pratique - Bonne pratique git
 ## Commande utilisé
 ### commande de base
 
@@ -11,5 +10,7 @@ change le repertoire actuelle vers le dossier home:
 
   Affiche la liste des fichier dans le répertoire actuelle
  	 `ls -l`
-
- **[aide pour créer un readme](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#GitHub-flavored-markdown)**
+   
+## Instalation de la machine virtuelle
+	`sudo sparky-installer`
+ 
